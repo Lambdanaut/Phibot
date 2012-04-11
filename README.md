@@ -33,7 +33,7 @@ enjoy.
 Word Unscrambler
 ----------------
 
-By default the word unscrambler is disabled in **Example.py**, but it can be re-enabled by downloading a list of words and putting it in the same folder as **Example.py**. A good place to find wordlists is [Kevin's wordlist page](http://wordlist.sourceforge.net/). It's important to note that the longer the wordlist, the harder the bot has to work to unscramble the word. 
+By default the word unscrambler is disabled in **Example.py**, but it can be re-enabled by downloading a list of words with the filename **wordlist** and putting it in the same folder as **Example.py**. A good place to find wordlists is [Kevin's wordlist page](http://wordlist.sourceforge.net/). It's important to note that the longer the wordlist, the harder the bot has to work to unscramble the word. 
 
 
 URL Parsing
