@@ -41,8 +41,8 @@ STOP       = BOT_NICK + " stop"
 HELP       = BOT_NICK + " help"
 
 # Personalized Messages
-DIE_MSG          = "I'm blowin' this posicle stand. "
-STOP_MSG         = "I'm ceasing all coolio activity. "
+DIE_MSG          = "I'm out. Farewell! "
+STOP_MSG         = "I'm ceasing all special activity. "
 TEND_MSG         = "I'll tend to the room, sir! "
 UNSCRAMBLE_MSG   = "I'll unscramble all the scrambled challenges I see. "
 GREETINGS_LIST   = ["Salutations ", "G'day ", "Howdy ", "Haldo ", "Hello ", "Hi ", "Hey there "]
